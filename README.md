@@ -6,13 +6,12 @@ TODO :)
 
 # Contents
 
-- [Suggested Awesome Lists](#awesome-packages--libraries)
+- [Suggested Awesome Lists](#suggested-awesome-lists)
 - [Software](#software)
 - [Browser Extensions](#browser-extensions)
 - [Books](#books)
 - [Training](#training)
 - [Others](#Others)
-- [Further Reading](#further-reading)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
