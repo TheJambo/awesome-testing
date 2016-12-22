@@ -50,10 +50,15 @@ TODO :)
 # Books
 - [Don't Make Me Think: A Common Sense Approach to Web Usability ](https://www.amazon.co.uk/d/Books/Dont-Make-Me-Think-Usability/0321965515/) - An incredibly useful book describing usability.
 - [UI is Communication](https://www.amazon.co.uk/UI-Communication-Intuitive-Interfaces-Effective/dp/0123969808) - How to make intuitive User Interfaces.
+- [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - All about how we make decisions.
 
 # Training
 - [PluralSight](https://www.pluralsight.com/) - A very popular video training site. 30 day trials available from many places.
 - [Code School](https://www.codeschool.com/) - Learn code by doing it. Highly recommended, beginner to intermediate.
+- [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community
+- [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training
+- [Coursera](https://www.coursera.org/) - Online courses from top universities.
+- [Exercism.io](http://exercism.io/) - Crowd-sourced code mentorship
 
 # Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
