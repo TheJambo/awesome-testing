@@ -55,10 +55,11 @@ TODO :)
 # Training
 - [PluralSight](https://www.pluralsight.com/) - A very popular video training site. 30 day trials available from many places.
 - [Code School](https://www.codeschool.com/) - Learn code by doing it. Highly recommended, beginner to intermediate.
-- [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community
-- [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training
+- [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
+- [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
-- [Exercism.io](http://exercism.io/) - Crowd-sourced code mentorship
+- [Exercism.io](http://exercism.io/) - Crowd-sourced code mentorship.
+- [Cybrary](https://www.cybrary.it/) - Online free security training.
 
 # Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
