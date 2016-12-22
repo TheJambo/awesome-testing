@@ -9,10 +9,6 @@ TODO
 - [Suggested Awesome Lists](#awesome-packages--libraries)
 - [Software](#software)
 - [Browser Extensions](#browser-extensions)
-	- [Capturing Evidence](#capturing-evidence)
-	- [Security](#security)
-  - [Other](#other)
-- [Lists](#lists)
 - [Recommended Reading](#recommended-reading)
   - [Short Reads](#under-10-mins)
   - [Long Reads](#over-10-mins)
@@ -24,12 +20,18 @@ TODO
 - [License](#license)
 
 # Suggested Awesome Lists
+
+## Must Read
 - [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 - [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+- [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+
+## Useful References
 - [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 - [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+
 
 # Software
 
@@ -39,13 +41,17 @@ TODO
 
 ## Quality of Life
 - [BareTail](https://www.baremetalsoft.com/baretail/) - Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features.
-# Browser Extensions
 
-# Lists
+# Browser Extensions
+- [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - We all have to mess with proxies, this makes it a lot easier when using Test/Prod/localhost proxies.
+- [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - For when PrintScreen isn't big enough.
+- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
+- [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - A wonderful extension that suggests values based on the field type.
 
 # Recommended Reading
 
 # Others
+- [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 
 # Further Reading
 
