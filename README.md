@@ -9,11 +9,9 @@ TODO :)
 - [Suggested Awesome Lists](#awesome-packages--libraries)
 - [Software](#software)
 - [Browser Extensions](#browser-extensions)
-- [Recommended Reading](#recommended-reading)
-  - [Short Reads](#under-10-mins)
-  - [Long Reads](#over-10-mins)
+- [Books](#books)
+- [Training](#training)
 - [Others](#Others)
-  - [Qualifications](#qualifications)
 - [Further Reading](#further-reading)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
@@ -53,6 +51,10 @@ TODO :)
 # Books
 - [Don't Make Me Think: A Common Sense Approach to Web Usability ](https://www.amazon.co.uk/d/Books/Dont-Make-Me-Think-Usability/0321965515/) - An incredibly useful book describing web design
 - [UI is Communication](https://www.amazon.co.uk/UI-Communication-Intuitive-Interfaces-Effective/dp/0123969808) - 
+
+# Training
+- [PluralSight](https://www.pluralsight.com/) - A very popular video training site. 30 day trials available from many places.
+- [Code School](https://www.codeschool.com/) - Learn code by doing it. Highly recommended, beginner to intermediate.
 
 # Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
