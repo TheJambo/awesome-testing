@@ -8,7 +8,6 @@ TODO :)
 
 - [Suggested Awesome Lists](#suggested-awesome-lists)
 - [Software](#software)
-- [Browser Extensions](#browser-extensions)
 - [Books](#books)
 - [Training](#training)
 - [Others](#Others)
