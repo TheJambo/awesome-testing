@@ -2,7 +2,7 @@
 > A curated list of testing software, extensions and resources
 
 ## Foreword
-TODO :)
+This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge.
 
 ## Contents
 
