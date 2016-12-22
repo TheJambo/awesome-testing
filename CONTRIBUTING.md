@@ -5,11 +5,10 @@ Thank you for your interest in contributing!
 Please ensure your pull request adheres to the following guidelines:
 
 
-- The purpose of this list is to teach about Unicode.
+- The purpose of this list is to increase the breadth of knowledge for testers and to discover new tools to help you on the way.
 - When you issue a pull request, you agree that your contribution is in the
     public domain (guided by the [CC0 license](LICENSE)).
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion. This allows to better
     handle updates or comments on the proposed character.
 - New categories, or improvements to the existing categorization are welcome.
