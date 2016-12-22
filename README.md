@@ -40,17 +40,19 @@ TODO
 ## Quality of Life
 - [BareTail](https://www.baremetalsoft.com/baretail/) - Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features.
 # Browser Extensions
-# Lists
-# Recommended Reading
-# Others
-# Further Reading
-# Contributing
 
+# Lists
+
+# Recommended Reading
+
+# Others
+
+# Further Reading
+
+# Contributing
 See the *Awesome Unicode* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
 
-
 # Code of Conduct
-
 See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
 >In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
