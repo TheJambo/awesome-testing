@@ -61,7 +61,7 @@ TODO :)
 - [Testers.io](http://www.testers.io/) - Community Slack for testers to discuss everything and rant. Mostly rant.
 
 # Contributing
-See the *Awesome Unicode* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
+See the *Awesome Testing* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
 
 # Code of Conduct
 See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
