@@ -32,7 +32,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - For when PrintScreen isn't big enough.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Suggests values based on the field type.
-- [Check All](https://chrome.google.com/webstore/detail/check-all/nnbihdpkeohjdfncchjhidbbonnihaob) - "Select All" is often not available. Why not bring your own?
+- [Check All](https://chrome.google.com/webstore/detail/check-all/hcajloodonmplhncgandpgjgagckkdhn) - "Select All" is often not available. Why not bring your own?
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
