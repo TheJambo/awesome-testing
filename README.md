@@ -3,7 +3,7 @@
 > A curated list of testing software, extensions and resources
 
 ## Foreword
-This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge.
+This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge. Note that this is for all areas of software testing after the code in question is written (no unit tests/static analysis!).
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and add to the list. :)
 
@@ -39,18 +39,17 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Yslow](http://yslow.org/) - Analyse why web pages are slow based on Yahoo!'s rules for performance.
 
 ## Books
-- [Don't Make Me Think: A Common Sense Approach to Web Usability ](https://www.amazon.co.uk/d/Books/Dont-Make-Me-Think-Usability/0321965515/) - An incredibly useful book describing usability.
-- [UI is Communication](https://www.amazon.co.uk/UI-Communication-Intuitive-Interfaces-Effective/dp/0123969808) - How to make intuitive User Interfaces.
-- [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - All about how we make decisions.
+- [Don't Make Me Think: A Common Sense Approach to Web Usability ](https://www.amazon.co.uk/d/Books/Dont-Make-Me-Think-Usability/0321965515/) - An incredibly useful book for usability testing.
+- [UI is Communication](https://www.amazon.co.uk/UI-Communication-Intuitive-Interfaces-Effective/dp/0123969808) - How to make intuitive User Interfaces (UI and Usability Testing).
+- [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - All about how we make decisions (UI Testing).
 
-## Training
-- [PluralSight](https://www.pluralsight.com/) - A very popular video training site. 30 day trials available from many places.
-- [Code School](https://www.codeschool.com/) - Learn code by doing it. Highly recommended, beginner to intermediate.
+## Training (Includes developer training for automation testers)
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
 - [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 - [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
-- [Exercism.io](http://exercism.io/) - Crowd-sourced code mentorship.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
+
 
 ## Suggested Awesome Lists
 
@@ -61,6 +60,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 - [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 - [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 - [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
