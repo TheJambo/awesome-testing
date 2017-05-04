@@ -64,6 +64,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 - [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md) - A list of free software testing books.
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
