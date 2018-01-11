@@ -34,15 +34,20 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Suggests values based on the field type.
 - [Check All](https://chrome.google.com/webstore/detail/check-all/hcajloodonmplhncgandpgjgagckkdhn) - "Select All" is often not available. Why not bring your own?
 - [MyWords](https://addons.mozilla.org/en-US/firefox/addon/mywords/) - Handy extension that can be used to save common snippets (Jira tables, test data etc.) you use often for easy typing.
+- [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
 - [Yslow](http://yslow.org/) - Analyse why web pages are slow based on Yahoo!'s rules for performance.
 
 ## Books
+- [Agile Testing: A Practical Guide](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468/) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
+- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025) - A very good book on structuring Exploratory Testing and designing tests.
+- [The Domain Testing Workbook](https://www.amazon.com/Domain-Testing-Workbook-Cem-Kaner/dp/0989811905) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better. 
 - [Don't Make Me Think: A Common Sense Approach to Web Usability ](https://www.amazon.co.uk/d/Books/Dont-Make-Me-Think-Usability/0321965515/) - An incredibly useful book for usability testing.
+- [Lessons Learn in Software Testing](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124/) - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
 - [UI is Communication](https://www.amazon.co.uk/UI-Communication-Intuitive-Interfaces-Effective/dp/0123969808) - How to make intuitive User Interfaces (UI and Usability Testing).
-- [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - All about how we make decisions (UI Testing).
+- [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - About how we make decisions and how to run experiments (experiments == tests).
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
