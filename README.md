@@ -43,7 +43,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Books
 - [Agile Testing: A Practical Guide](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468/) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025) - A very good book on structuring Exploratory Testing and designing tests.
-- [The Domain Testing Workbook](https://www.amazon.com/Domain-Testing-Workbook-Cem-Kaner/dp/0989811905) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better. 
+- [The Domain Testing Workbook](https://www.amazon.com/Domain-Testing-Workbook-Cem-Kaner/dp/0989811905) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability ](https://www.amazon.co.uk/d/Books/Dont-Make-Me-Think-Usability/0321965515/) - An incredibly useful book for usability testing.
 - [Lessons Learn in Software Testing](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124/) - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
 - [UI is Communication](https://www.amazon.co.uk/UI-Communication-Intuitive-Interfaces-Effective/dp/0123969808) - How to make intuitive User Interfaces (UI and Usability Testing).
@@ -55,6 +55,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
+- [BBST Testing Courses](http://testingeducation.org/BBST/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures. 
 
 
 ## Suggested Awesome Lists
