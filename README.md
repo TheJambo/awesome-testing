@@ -43,13 +43,16 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Yslow](http://yslow.org/) - Analyse why web pages are slow based on Yahoo!'s rules for performance.
 
 ## Books
-- [Agile Testing: A Practical Guide](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468/) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
-- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025) - A very good book on structuring Exploratory Testing and designing tests.
-- [The Domain Testing Workbook](https://www.amazon.com/Domain-Testing-Workbook-Cem-Kaner/dp/0989811905) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
-- [Don't Make Me Think: A Common Sense Approach to Web Usability ](https://www.amazon.co.uk/d/Books/Dont-Make-Me-Think-Usability/0321965515/) - An incredibly useful book for usability testing.
-- [Lessons Learn in Software Testing](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124/) - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
-- [UI is Communication](https://www.amazon.co.uk/UI-Communication-Intuitive-Interfaces-Effective/dp/0123969808) - How to make intuitive User Interfaces (UI and Usability Testing).
-- [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - About how we make decisions and how to run experiments (experiments == tests).
+- [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
+- [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
+- [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - My go to book for people brand new to testing.
+- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
+- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - A very good book on structuring Exploratory Testing and designing tests.
+- [The Domain Testing Workbook](https://amzn.to/2Az4l90) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
+- [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - An incredibly useful book for usability testing.
+- [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
+- [UI is Communication](https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (UI and Usability Testing).
+- [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (experiments == tests).
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
