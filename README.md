@@ -37,6 +37,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [MyWords](https://addons.mozilla.org/en-US/firefox/addon/mywords/) - Handy extension that can be used to save common snippets (Jira tables, test data etc.) you use often for easy typing.
 - [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
+- [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
