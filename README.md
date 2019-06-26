@@ -1,4 +1,4 @@
-![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
+![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
 # Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of testing software, extensions and resources
 
