@@ -38,6 +38,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
+- [recheck-web](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source test case management system
 - [Captura](https://github.com/MathewSachin/Captura) - Open Source video recording tool
 
