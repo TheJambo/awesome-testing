@@ -70,6 +70,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [James Bach](http://www.satisfice.com/blog/)
 - [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
+- [Nikita Sobolev](https://sobolevn.me/)
 
 ## Suggested Awesome Lists
 
