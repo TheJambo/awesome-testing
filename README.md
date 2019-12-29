@@ -39,8 +39,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 - [recheck-web](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
-- [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source test case management system
-- [Captura](https://github.com/MathewSachin/Captura) - Open Source video recording tool
+- [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+- [Captura](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+- [QA Wolf](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
