@@ -94,7 +94,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
-- [Testers.io](http://www.testers.io/) - Community Slack for testers to discuss everything and rant. Mostly rant.
 - [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
