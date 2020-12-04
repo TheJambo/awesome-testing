@@ -13,6 +13,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Books](#books)
 - [Training](#training)
 - [Blogs](#blogs)
+- [Newsletters](#newsletters)
 - [Suggested Awesome Lists](#suggested-awesome-lists)
 - [Others](#Others)
 - [Contributing](#contributing)
@@ -73,6 +74,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
+
+## Newsletters
+- [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 
 ## Suggested Awesome Lists
 
