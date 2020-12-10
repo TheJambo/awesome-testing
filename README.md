@@ -98,7 +98,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## QA and Testing Road Map
-- [How to strat QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies,topics and skills that you need to start a career in software testing and automation.
+- [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
