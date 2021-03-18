@@ -44,6 +44,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
 - [Captura](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
+- [Online decision table service](http://decision-table.com/) - full test coverage by generating cases with simple Decision Table technique.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
