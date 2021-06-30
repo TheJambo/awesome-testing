@@ -45,6 +45,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [QA Wolf](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 - [Online decision table service](http://decision-table.com/) - full test coverage by generating cases with simple Decision Table technique.
 - [Synth](https://github.com/getsynth/synth) - Open Source test data generator.
+- [Requestly](https://requestly.io/) - A lightweight proxy as a browser extension & desktop app to intercept & modify network requests. You can Modify Headers, Redirect Url, Mock API response, Delay/Throttle requests, etc.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
