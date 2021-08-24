@@ -26,6 +26,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security
 - [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
+- [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - This simple web server uses HTTP dumps as a source for responses.
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 
 ### Make your life easier
