@@ -64,6 +64,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [UI is Communication](https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (UI and Usability Testing).
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (experiments == tests).
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques for developers.
+- [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - A book that teaches you to design and execute controlled experiments that uncover hidden problems.
+- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
+- [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
