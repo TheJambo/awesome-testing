@@ -51,6 +51,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 - [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
 - [test-each](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+- [Serenity BDD](https://serenity-bdd.github.io/) - Write higher quality test automation faster, and generate beautiful living documentation and release evidence reporting.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
@@ -73,6 +74,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.
 - [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
+- [BDD in Action](https://www.manning.com/books/bdd-in-action-second-edition) - Behavior-Driven Development (BDD) encourages developers, quality teams, and non-technical stakeholders to collaborate, using conversation and concrete examples to make sure everyone agrees how an application should work and what features really matter.
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
@@ -81,6 +83,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
 - [BBST Testing Courses](http://testingeducation.org/BBST/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
+- [Serenity Dojo Training Library](https://expansion.serenity-dojo.com) - Online training on BDD and Agile Test Automation Practices, for testers wanting to get into test automation.
 
 ## Blogs
 - [James Bach](http://www.satisfice.com/blog/)
