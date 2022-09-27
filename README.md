@@ -51,6 +51,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 - [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
 - [test-each](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+- [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
