@@ -1,5 +1,6 @@
 ![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
-# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Dead link checker](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml/badge.svg)](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml)
 > A curated list of testing software, extensions and resources
 
 ## Foreword
@@ -11,12 +12,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [Software](#software)
 - [Books](#books)
-- [Training](#training)
+- [Training](#training-includes-developer-training-for-automation-testers)
 - [Blogs](#blogs)
 - [Newsletters](#newsletters)
 - [Suggested Awesome Lists](#suggested-awesome-lists)
 - [QA & Testing Road Map](#qa-and-testing-road-map)
-- [Others](#Others)
+- [Others](#others)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
