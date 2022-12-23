@@ -82,7 +82,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
-- [BBST Testing Courses](http://testingeducation.org/BBST/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
+- [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
 ## Blogs
 - [James Bach](http://www.satisfice.com/blog/)
