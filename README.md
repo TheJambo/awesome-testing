@@ -47,6 +47,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Online decision table service](http://decision-table.com/) - full test coverage by generating cases with simple Decision Table technique.
 - [Synth](https://github.com/getsynth/synth) - Open Source test data generator.
 - [Requestly](https://requestly.io/) - A lightweight proxy as a browser extension & desktop app to intercept & modify network requests. You can Modify Headers, Redirect Url, Mock API response, Delay/Throttle requests, etc.
+- [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for testing and robotic process automation (RPA).
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 - [Keploy](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 - [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
@@ -54,6 +55,14 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [test-each](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 - [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 - [RestQA](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+
+### Web3 and Blockchain testing
+- [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
+- [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
+- [Foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
+- [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
+- [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
