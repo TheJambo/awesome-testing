@@ -56,7 +56,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 - [RestQA](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
 
-### Web3 and Blockchain testing
+### Web3 and Blockchain
 - [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
 - [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 - [Foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
