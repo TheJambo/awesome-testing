@@ -71,7 +71,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Books
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
 - [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
-- [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - My go to book for people brand new to testing.
+- [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.eu/d/h2wRwEg) - My go to book for people brand new to testing.
 - [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - A very good book on structuring Exploratory Testing and designing tests.
 - [The Domain Testing Workbook](https://amzn.to/2Az4l90) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
