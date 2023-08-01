@@ -63,7 +63,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
 - [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
-- [Cannon](https://usecannon.com/) Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+- [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
