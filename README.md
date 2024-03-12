@@ -106,6 +106,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
 - [Automation Panda](https://automationpanda.com/)
+- [Bas Dijkstra](https://www.ontestautomation.com/)
 
 ## Newsletters
 - [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
