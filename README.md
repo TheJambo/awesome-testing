@@ -30,6 +30,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 
 ### Make your life easier
+- [LambdaTest](https://www.lambdatest.com) - An AI-powered unified enterprise test execution cloud platform that helps businesses drastically reduce time to market through faster test execution, ensuring quality releases and accelerated digital transformation
 - [GoodLooks](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
 - [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
 - [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
@@ -110,6 +111,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Automation Panda](https://automationpanda.com/)
 
 ## Newsletters
+- [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
 - [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 
 ## Suggested Awesome Lists
