@@ -64,6 +64,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
 - [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
+- [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - World's first open source end to end testing agent.
 
 ### Web3 and Blockchain
 - [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
