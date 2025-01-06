@@ -66,6 +66,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - World's first open source end to end testing agent.
 - [Hyperbrowser](https://hyperbrowser.ai) - A platform for running and scaling headless browsers with built-in features for session recording, CAPTCHA solving, proxies, etc to easily run tests at scale.
+- [MixedVoices](https://mixedvoices.xyz) - An Open Source tool for analyzing and evaluating AI Voice agents
 
 ### Web3 and Blockchain
 - [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
