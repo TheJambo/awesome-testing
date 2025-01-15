@@ -30,7 +30,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 
 ### Make your life easier
-- [Happo](https://happo.io) - cross-browser screenshot and visual regression testing, with integrations for popular tools such as Storybook, Playwright, and Cypress.
+- [Happo](https://happo.io) - cross-browser screenshot and visual regression testing service, with integrations for popular tools such as Storybook, Playwright, and Cypress.
 - [LambdaTest](https://www.lambdatest.com) - An AI-powered unified enterprise test execution cloud platform that helps businesses drastically reduce time to market through faster test execution, ensuring quality releases and accelerated digital transformation
 - [GoodLooks](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
 - [TestingBot](https://testingbot.com) - Run automated, manual and visual tests on a wide range of browsers and devices.
