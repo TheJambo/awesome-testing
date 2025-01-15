@@ -31,6 +31,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Make your life easier
 - [LambdaTest](https://www.lambdatest.com) - An AI-powered unified enterprise test execution cloud platform that helps businesses drastically reduce time to market through faster test execution, ensuring quality releases and accelerated digital transformation
+- [PostQode](https://postqode.ai/) - Your AI Co-Worker For API Testing and Automation.
 - [GoodLooks](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
 - [TestingBot](https://testingbot.com) - Run automated, manual and visual tests on a wide range of browsers and devices.
 - [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
