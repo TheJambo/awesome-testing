@@ -31,6 +31,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Keploy](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 - [RestQA](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 - [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in plain English with extendable Python implementation.
+- [Tests Coverage Tool](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
+- [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
@@ -58,6 +60,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
+- [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 
 ### Test Management
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
@@ -82,6 +85,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Performance & Load Testing
 - [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+- [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
