@@ -62,7 +62,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
-- [Zyntra](https://zyntra.app/) – Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
   
 ### Test Management
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
