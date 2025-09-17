@@ -68,6 +68,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Management
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
+- [Treeify](https://treeifyai.com) - The first AI-powered test case design tool on mind map with milti-agent architecture.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
@@ -134,6 +135,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
 - [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
+- [Awesome Test Case Design](https://treeifyai.com) - A playbook about test case design.
 
 ## Blogs
 - [James Bach](http://www.satisfice.com/blog/)
