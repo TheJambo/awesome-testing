@@ -102,6 +102,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Automation Frameworks
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
+- [Suites](https://suites.dev) - Unit-testing framework for TypeScript backends with dependency injection, offering declarative API and type-safe mocks for isolated test environments.
 
 ### Screen Recording & Session Replays
 - [Captura](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
