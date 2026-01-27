@@ -153,6 +153,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
 - [Automation Panda](https://automationpanda.com/)
+- [Bas Dijkstra](https://www.ontestautomation.com/)
 
 ## Newsletters
 - [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
