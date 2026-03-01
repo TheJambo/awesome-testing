@@ -99,6 +99,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
 
 ### Accessibility & Usability Testing
+- [PageGuard](https://pageguard.org) - Free website health scanner with accessibility audit (WCAG), SEO, performance and best practices checks, plus AI-generated action plans.
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 - [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
 - [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
