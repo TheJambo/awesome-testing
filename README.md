@@ -27,6 +27,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### API Testing
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
+- [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relavent tests are conducted with our long running agent setup.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
 - [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 - [Vedika API](https://vedika.io/) - Vedic astrology API with free sandbox environment for testing. Includes Postman collection, 108+ endpoints, and AI-powered chatbot API for integration testing.
@@ -38,6 +39,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
 - [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+- [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
@@ -54,8 +56,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 - [mockd](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 - [WireMock](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
+- [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 
 ### Visual Testing
+- [Frostbyte Screenshot Action](https://github.com/OzorOwn/frostbyte-screenshot-action) - GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 - [GoodLooks](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
@@ -66,6 +70,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### UI & End-to-End Testing
+- [Polarity])https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
@@ -81,7 +86,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [QA Wolf](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
   
+  
 ### Test Management
+- [Gwirian](https://www.gwirian.com) - Open source BDD test management for QA teams. Given/When/Then scenarios, search, dashboards; self-host or hosted.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
@@ -92,6 +99,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [test-each](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 
 ### Browser Extensions & Utilities
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
 - [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
@@ -101,6 +109,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Accessibility & Usability Testing
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
+- [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+- [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ### Performance & Load Testing
 - [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
@@ -117,6 +127,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Automation Frameworks
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
+- [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
+- [OpenTester](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 
 ### Screen Recording & Session Replays
 - [Captura](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
