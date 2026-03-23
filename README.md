@@ -95,6 +95,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
+- [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 - [Synth](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each](https://github.com/ehmicky/test-each) - Data-driven testing framework.
