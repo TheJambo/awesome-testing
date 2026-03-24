@@ -138,6 +138,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Mind Mapping & Documentation
 - [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.
 
+### A/B Testing
+- [Kirro](https://kirro.io) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
+
 
 ## Books
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
