@@ -48,6 +48,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
 
 ### AI & LLM Testing
+- [Litmus](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
