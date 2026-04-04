@@ -37,6 +37,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [SpecTest](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
 - [Tests Coverage Tool](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
 - [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
+- [ToolPipe](https://toolpipe.dev) - 120+ developer utility APIs and MCP server for testing workflows. Includes fake data generation, JSON schema validation, regex testing, hash generation, UUID generation, JWT decode, and more. No signup required.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
 - [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
