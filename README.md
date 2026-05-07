@@ -48,6 +48,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### AI & LLM Testing
 - [Litmus](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
+- [MockHunter](https://github.com/CodeShuX/mockhunter) - Claude Code skill auditing live web pages via Playwright for fake/mock data; classifies values as REAL/MOCK/LLM/HARDCODED/BROKEN/UNKNOWN across 5 phases.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 - [Tenro](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
