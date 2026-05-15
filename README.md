@@ -204,6 +204,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 - [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 - [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+- [vibe-qa](https://github.com/vrnjoshi/vibe-qa) - A QA handbook of checklists, bug patterns, and test templates for testing AI-generated and vibe-coded applications.
 
 ## QA and Testing Road Map
 - [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
