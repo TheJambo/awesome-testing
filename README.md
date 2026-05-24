@@ -180,6 +180,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
 - [Automation Panda](https://automationpanda.com/)
+- [Pankaj Nakhat](https://pankajnakhat.com/writing/) - QA transformation, AI-augmented testing, prompt engineering for QE, and quality engineering leadership.
 - [And others](https://github.com/ChristoWolf/awesome-testing-blogs)
 
 ## Newsletters
