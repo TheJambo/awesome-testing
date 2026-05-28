@@ -98,6 +98,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
+- [Confidence Gate](https://github.com/OaktreeInnovations/confidence-gate) - Open-source AI release gate that scores Playwright test runs 0–100 and issues ship/watch/block decisions using vision AI step verification
 
 ### Test Data Management
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
