@@ -54,6 +54,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 - [Evaliphy](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
+- [silentdrop-llm](https://github.com/sravan27/silentdrop-llm) - Zero-dependency runtime guard for the silent failure modes of LLM/agent responses (missing required fields, enum drift, hallucinated IDs, claim/list mismatches). `npm i silentdrop-llm`.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
