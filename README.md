@@ -233,3 +233,4 @@ To the extent possible under law, [the
 contributors](https://github.com/TheJambo/awesome-testing/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
 [license file](LICENSE) for details.
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Automated detection of breaking API changes in pull requests using TypeScript AST analysis.
