@@ -78,6 +78,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### UI & End-to-End Testing
+- [Smart-AI-Bot](https://github.com/rejigtian/Smart-AI-Bot) - AI-agent-driven Android UI test automation: write tests in plain language and an LLM agent runs them on real devices with
+  visual step-replay reports.
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
