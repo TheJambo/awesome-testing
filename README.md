@@ -106,6 +106,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Data Management
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
+- [naughty-datetimes](https://github.com/FoundagentTest/naughty-datetimes) - Categorized, annotated corpus of date and time values that break parsers, storage, and formatting, as drop-in JSON and text fixtures.
 - [Synth](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each](https://github.com/ehmicky/test-each) - Data-driven testing framework.
