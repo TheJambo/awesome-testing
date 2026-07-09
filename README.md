@@ -56,6 +56,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 - [Evaliphy](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
 - [nika](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+- [paranoid-qa](https://github.com/akovalion/paranoid-qa) - Claude Code skill pack that makes an AI agent test with evidence discipline: every verdict must cite an observed artifact. Includes standalone web testing checklists with nearly 1,000 individual checks, Playwright test review, and test-case generation.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
