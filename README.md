@@ -97,6 +97,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 - [agent-qa](https://github.com/vostride/agent-qa) - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release. 
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for E2E testing. MCP-native, CDP protocol, real human IPs and fingerprints. SDKs for Python and JS.
   
   
 ### Test Management
