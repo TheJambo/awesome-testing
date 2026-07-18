@@ -73,6 +73,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [GoodLooks](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
 - [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with AI flake triage and baseline review.
+- [Tessera](https://app.tesserae.site) - Renders a page on many real device viewports at once for responsive checks. Live browser tiles with synced scrolling and DPR-accurate screenshot export.
 - [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 - [recheck-web](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
