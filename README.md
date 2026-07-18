@@ -93,6 +93,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
 - [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+- [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator that produces a ready-to-commit playwright.config.ts/.js/.mjs with browser projects (Chromium, Firefox, WebKit, mobile devices), retries, workers, trace/video/screenshots, webServer, and CI reporters. No signup.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 - [tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
