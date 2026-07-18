@@ -55,6 +55,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 - [Evaliphy](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
+- [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
 - [nika](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ### Service Virtualization
