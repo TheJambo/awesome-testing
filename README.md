@@ -51,6 +51,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
 
 ### AI & LLM Testing
+- [AIFast Model Check](https://docs.aifast.club/model-check/) - Browser-based checks for OpenAI-compatible API authentication, streaming, tool calling, token usage, and response schema.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 - [Tenro](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
