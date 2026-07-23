@@ -103,6 +103,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   
   
 ### Test Management
+- [FlakeTrack](https://github.com/cbrown350/flaketrack) - GitHub Action that detects, trends, and quarantines flaky JUnit tests, storing the full history in your own repo (a branch, Issues, and a static GitHub Pages dashboard) with no external account or server required.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
