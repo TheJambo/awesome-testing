@@ -105,6 +105,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   
 ### Test Management
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+- [Qualflare](https://qualflare.com) - AI test management and observability; detects flaky tests, clusters CI failures by root cause, and scores release risk across 23 frameworks.
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
