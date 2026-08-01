@@ -231,6 +231,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [QALadder](https://qaladder.org) - A free, sequenced roadmap from manual QA to SDET, with a 150-question interview bank, browser-based practice labs, and QA tools.
 
 ## Others
+- [flakelens](https://github.com/nabsei/flakelens) - Finds flaky (not broken) CI jobs from the GitHub Actions history a repo already has, no rerun or config required.
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 - [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
