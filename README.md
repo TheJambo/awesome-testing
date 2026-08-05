@@ -119,6 +119,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Synth](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each](https://github.com/ehmicky/test-each) - Data-driven testing framework.
+- [QAPractices Test Data Management Plan Template](https://qapractices.com/templates/test-data-management-plan-template/) - Free template for planning and organizing test data in software testing projects.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
