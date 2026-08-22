@@ -121,11 +121,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 - [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
-
+- [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
+- [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
 - [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
@@ -153,10 +154,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
 
 ### Test Automation Frameworks
+- [Bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 - [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 - [OpenTester](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
+- [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 
 ### Screen Recording & Session Replays
 - [Captura](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
