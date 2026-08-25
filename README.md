@@ -86,6 +86,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to Github Actions to test only the flows that have changed in a PR.
+- [dsh-verify](https://github.com/263311487-ux/dsh-verify) - The quality gate for agent-built web apps: write JSON acceptance specs, a real browser executes them and returns PASS/FAIL with screenshot receipts.
 - [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 - [Ferrum](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 - [flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
