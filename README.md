@@ -136,6 +136,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Accessibility & Usability Testing
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
+- [Public-Path Evidence Audit Starter](https://github.com/Allura-Gensin/public-path-evidence-audit-starter) - Free public-only conversion-path QA worksheet and GitHub Action for recording bounded route evidence before launch.
 - [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
 - [Site Punchlist](https://sitepunchlist.com) - Crawls a whole site with axe-core and groups repeated findings by the shared component causing them, so one fix covers every page it appears on. Publishes which WCAG 2.2 criteria automation can and cannot reach. Free five-page scan, no account.
 - [squirrelscan](https://squirrelscan.com) - Audits websites for accessibility, SEO, performance, and security with 260+ rules and returns exact fixes for your coding agent, from the CLI, cloud, or MCP.
