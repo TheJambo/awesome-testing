@@ -141,6 +141,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
 
 ### Accessibility & Usability Testing
+- [A11yKit](https://a11ykit.site) - 15 free client-side web accessibility and WCAG 2.2 color contrast testing tools with zero code uploads.
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 - [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
 - [Site Punchlist](https://sitepunchlist.com) - Crawls a whole site with axe-core and groups repeated findings by the shared component causing them, so one fix covers every page it appears on. Publishes which WCAG 2.2 criteria automation can and cannot reach. Free five-page scan, no account.
