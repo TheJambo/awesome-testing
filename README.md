@@ -153,6 +153,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [VertaaUX CLI](https://github.com/VertaaUX/cli) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 - [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
+### Release Artifact Validation
+
+- [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) - Node.js CLI that compares sitemap URL sets between releases and checks configured metadata and removal limits.
+
 ### Performance & Load Testing
 - [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
 - [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
