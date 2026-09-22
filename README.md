@@ -112,6 +112,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   
 ### Test Management
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+- [qarunbook](https://qarunbook.com) - Free shared test runbook where testers record a pass or fail per platform with screenshots, and an issue marked fixed sends the check back for a retest.
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
