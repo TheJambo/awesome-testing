@@ -108,6 +108,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 - [Waterfall AI Test](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
 - [agent-qa](https://github.com/vostride/agent-qa) - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release. 
+- [jevnav](https://github.com/dtduc-git/jevnav) - Records AI browser decisions as replayable JSONL traces and turns them into regression tests: a gate blocks risky actions, and replay verifies each recorded decision offline in CI.
   
   
 ### Test Management
