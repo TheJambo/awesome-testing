@@ -87,6 +87,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
+- [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
