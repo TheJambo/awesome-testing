@@ -111,6 +111,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [VibeView](https://vibeview.io/) - Run & test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be ran cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.
 - [Waterfall AI Test](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
 - [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
+- [offstage-windows](https://github.com/LippInc/offstage-windows) - Runs Electron and headed Playwright tests on a hidden Windows desktop, so their windows never appear on screen or take keyboard focus.
   
   
 ### Test Management
