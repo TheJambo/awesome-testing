@@ -49,6 +49,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 - [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 - [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
+ - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
 ### AI & LLM Testing
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -73,7 +74,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 
 ### Visual Testing
-- [Frostbyte Screenshot Action](https://github.com/OzorOwn/frostbyte-screenshot-action) - GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 - [GoodLooks](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
@@ -87,7 +87,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
+- [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
+- [cloudf.one](https://www.cloudf.one) - Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
 - [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
@@ -114,6 +116,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   
 ### Test Management
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+- [qarunbook](https://qarunbook.com) - Free shared test runbook where testers record a pass or fail per platform with screenshots, and an issue marked fixed sends the check back for a retest.
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
@@ -133,6 +136,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
 - [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
 - [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
+- [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
+- [postal-code-formats](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
@@ -143,6 +148,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
 - [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
+- [TabQA](https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp) - Connect, mirror, and control Android devices directly in Chrome via WebUSB without ADB; capture logs, inspect network requests, and record bug reproduction video buffers.
 
 ### Accessibility & Usability Testing
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
@@ -155,6 +161,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Performance & Load Testing
 - [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
 - [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
+- [k6](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
