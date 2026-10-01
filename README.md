@@ -72,6 +72,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [MockServer](https://github.com/mock-server/mockserver-monorepo) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
 - [WireMock](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 - [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
+- [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
 
 ### Visual Testing
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
