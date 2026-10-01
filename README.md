@@ -139,6 +139,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
 - [postal-code-formats](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
 
+- [StanzaAPI Test Data](https://stanzaapi.com/datasets) - Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.
+
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
