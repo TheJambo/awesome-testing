@@ -168,6 +168,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 - [k6](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
 - [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
+- [Locust Kubernetes Operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
