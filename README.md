@@ -143,6 +143,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [postal-code-formats](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
 
 - [StanzaAPI Test Data](https://stanzaapi.com/datasets) - Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.
+- * [Fake Name Generator Online](https://www.fakenamegenerator.online/) - Free, client-side dummy persona and test data generator (JSON, CSV, SQL exports).
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
