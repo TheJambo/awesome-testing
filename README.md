@@ -89,6 +89,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
+- [ai-wright](https://github.com/TestChimp/ai-wright) - Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.
 - [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [cloudf.one](https://www.cloudf.one) - Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.
