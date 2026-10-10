@@ -82,6 +82,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Image Diff](https://nutilz.com/image-diff) - Free, browser-based pixel diff tool for comparing two images and highlighting exactly what changed, with an adjustable sensitivity threshold. No upload, no sign-up.
 - [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with AI flake triage and baseline review.
 - [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
+- [Wayback-Diff](https://github.com/GeiserX/Wayback-Diff) - Open-source command-line tool that compares two web pages, live or from the Wayback Machine, with side-by-side and pixel-diff screenshots and exit codes for CI.
 - [recheck-web](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
