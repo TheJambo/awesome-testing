@@ -225,6 +225,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
 - [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 - [FrontRow](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
+- [Check a browser-agent result before timing it](https://github.com/liubrain39/browsesprint-resources/blob/codex/public-resources/docs/browser-result-verification.md) - Worked examples of verifying browser-task completion through receipts and public HTML, with a read-only Python check and limits on timing conclusions.
 
 ## Blogs
 - [Janet Gregory](http://janetgregory.ca/blog/)
