@@ -135,6 +135,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [JSON Validation Test Cases](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
 - [mailsocket](https://mailsocket.app) - Inbox API that waits for an email OTP or magic link and returns it as JSON, with Python and TypeScript SDKs and an MCP server.
 - [Synth](https://github.com/getsynth/synth) - Open-source test data generator.
+- [Weavori](https://weavori.com) - Zero-config PostgreSQL synthetic data CLI for test fixtures. It reads the live schema, resolves foreign keys, and loads referentially intact rows whose column distributions match production. A pinned --seed makes CI runs byte-identical. Commercial, with a free tier.
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 - [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
