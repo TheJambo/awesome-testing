@@ -86,6 +86,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
 - [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
+- [Visual Sentinel](https://visualsentinel.com) - Scheduled pixel-level screenshot comparison of live pages in a real headless browser, with alerts when a page breaks visually.
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
