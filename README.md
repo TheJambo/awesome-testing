@@ -26,6 +26,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Software
 
 ### API Testing
+- [API Spector](https://api-spector.dev) - Open-source API clien, mock server and contract testing tool. Zero telemetry.
 - [Bruno](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
 - [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relevant tests are conducted with our long running agent setup.
