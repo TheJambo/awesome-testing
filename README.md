@@ -147,6 +147,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [dbmask](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 - [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
 - [JSON Validation Test Cases](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
+- [Mails.ai](https://mails.ai/docs/email-testing) - Email inboxes for automated tests: a plus address per test and one call that waits for the email and returns the sign-up code or magic link, with TypeScript and Python SDKs, Cypress and Playwright packages and an MCP server.
 - [mailsocket](https://mailsocket.app) - Inbox API that waits for an email OTP or magic link and returns it as JSON, with Python and TypeScript SDKs and an MCP server.
 - [Synth](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
