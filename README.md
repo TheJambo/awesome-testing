@@ -81,6 +81,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
 - [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
 - [OutageFence](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
+- [Groundhog](https://github.com/Groundmail/groundhog) - Open-source local email inbox that emulates SMTP and the SendGrid, Postmark, Mailgun, Resend and Amazon SES APIs, with failure injection in each provider's error format and signed webhook simulation.
 
 ### Visual Testing
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
