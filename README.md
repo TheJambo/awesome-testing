@@ -199,6 +199,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 - [Locust Kubernetes Operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
 - [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - One-minute Linux server benchmark of CPU, memory and 4k random disk IOPS using sysbench and fio.
+- [check-proxy-tax](https://github.com/600me/check-proxy-tax) - Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
