@@ -302,6 +302,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 - [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+- [FunnelProof form-delivery checklist](https://github.com/diabolical-ninja/funnelproof-checklist) - Manual test record for tracing a contact-form submission to its intended inbox or CRM and assigned owner, with explicit unverified outcomes.
 
 ## Contributing
 See the *Awesome Testing* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
