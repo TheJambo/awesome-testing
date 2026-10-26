@@ -303,6 +303,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 - [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+- [DevXTools](https://devxtools.dev/) - Independent comparisons and catalog of API testing, mocking, test data, E2E and load testing tools.
 
 ## Contributing
 See the *Awesome Testing* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
