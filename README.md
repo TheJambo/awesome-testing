@@ -160,6 +160,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Mails.ai](https://mails.ai/docs/email-testing) - Email inboxes for automated tests: a plus address per test and one call that waits for the email and returns the sign-up code or magic link, with TypeScript and Python SDKs, Cypress and Playwright packages and an MCP server.
 - [mailsocket](https://mailsocket.app) - Inbox API that waits for an email OTP or magic link and returns it as JSON, with Python and TypeScript SDKs and an MCP server.
 - [Synth](https://github.com/getsynth/synth) - Open-source test data generator.
+- [Personified](https://github.com/TheTechBasket/personified) - Free AI avatar photos of fictional people with typed personas (name, country, age band, mood) for seed data and placeholder users. MIT code, npm package.
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 - [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
