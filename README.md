@@ -48,6 +48,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [SolidPing](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
 - [BestJSON JSON Diff](https://bestjson.com/json-diff) - Free browser tool for comparing saved JSON API responses by structure, with explicit array-order and record-ID matching rules.
 - [Kerno](https://kerno.io) - The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
+- [OpenAPI Breaking Change Checker](https://martingruner.com/tools/openapi-breaking-change-checker) - Free browser tool that compares two Swagger 2.0 or OpenAPI 3.0/3.1 descriptions (JSON or YAML) and sorts each change into likely breaking, review-needed or compatible; the files stay in the browser.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
