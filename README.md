@@ -150,6 +150,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
+- [GetTemp.Email testing connector](https://github.com/sefara/gettemp-email-testing) - MIT-licensed Playwright and pytest helpers for receive-only inbox tests, with bounded polling, verification-link validation and teardown cleanup attempts.
 - [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
 - [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
 - [8½ Minute Mail](https://8m30mail.com/) - Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.
