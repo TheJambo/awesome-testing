@@ -267,6 +267,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
 - [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
+- [Playwright Practice Lab](https://github.com/automationdatacamp/adc-playwright-practice-lab) - Open source before/after Playwright exercises on a small local shop: spot what a green test does not prove, then fix it.
 - [FrontRow](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
 
 ## Blogs
