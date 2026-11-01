@@ -144,6 +144,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   
 ### Test Report Diagnostics
 - [junit-collision-check](https://github.com/sunxiuguo/junit-collision-check) - Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.
+- [Playwright State Lens](https://github.com/aichance/business-ai-recipes/tree/main/tools/playwright-state-lens) - Experimental Playwright helper showing selected browser-storage field changes and step screenshots in one local HTML report.
 
 ### Test Management
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
