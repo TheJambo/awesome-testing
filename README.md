@@ -227,6 +227,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
 
 ### Test Automation Frameworks
+- [bareenv](https://github.com/Blasword/bareenv) - Runs a command once per environment combination (unset, empty, invalid) and reports the ones that break.
 - [Bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
