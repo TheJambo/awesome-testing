@@ -121,6 +121,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Drengr Runner](https://github.com/SharminSirajudeen/drengr-runner) - Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.
 - [Ferrum](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 - [flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+- [GenClass](https://github.com/genclass-dev/GenClass) - Open-source browser library that reports race conditions in a web app while they happen (stale responses written over newer data, duplicate submits, failure storms) with a small on-device model. Its local MCP server re-runs a page with responses delivered in different orders to find races and replays one order to prove a fix.
 - [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 - [Kane CLI](https://www.testmuai.com/kane-cli/) - Natural-language browser testing from the terminal, locally or in CI, with export to Playwright and shareable run evidence.
