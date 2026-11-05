@@ -197,6 +197,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
 - [Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) - Test how a site behaves for users in other browsers, OSes, languages, timezones and screen sizes by switching the whole browser identity. Also available for Firefox.
 - [TabQA](https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp) - Connect, mirror, and control Android devices directly in Chrome via WebUSB without ADB; capture logs, inspect network requests, and record bug reproduction video buffers.
+- [RequestFox](https://requestfox.accessisight.com/) - Free Chrome and Firefox extension that records the API calls a web app makes while you test and flags the failed, slow and duplicate ones.
 
 ### Accessibility & Usability Testing
 
