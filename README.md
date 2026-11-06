@@ -133,6 +133,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 - [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
 - [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
+- [Phonebox](https://phonebox.dev) - Cloud Android phones that AI coding agents such as Claude Code and Cursor drive over a hosted MCP server to install an APK, walk its screens and record evidence. Parked phones keep their apps and sign-ins.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 - [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
