@@ -185,6 +185,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   locales.
 - [Random IMEI Generator](https://onlineminitools.com/random-imei-generator) - Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.
 - [Brume](https://github.com/brumeorg/Brume) - Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.
+- [GenerateRealData](https://www.generaterealdata.com) - AI-assisted web tool that generates relational test databases from a SQL schema or a plain-English description, keeping foreign keys, totals and business rules consistent across tables. Exports to CSV, Excel, JSON, SQL dump and SQLite.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
