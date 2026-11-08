@@ -147,6 +147,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
 - [assay](https://github.com/awss1i/assay) - Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.
 - [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
+- [Geovo Remote](https://apps.apple.com/app/id6829830051) - Free iPhone and iPad app for checking location features on a real device: a GPS status readout, a GPX recorder, a geofence test that logs iOS's enter and exit events, and a GPX and KML viewer.
   
   
 ### Test Report Diagnostics
