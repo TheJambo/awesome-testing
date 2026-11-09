@@ -80,6 +80,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
+- [Buggregator](https://github.com/buggregator/server) - Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 - [fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 - [ghostwire](https://github.com/nanmuyao-tools/ghostwire) - Open-source Linux tool that mocks ping, TCP connections, UDP errors and DNS per target address, with delay, jitter, loss and faults controllable live through an HTTP API; no proxy to point your program at, no root needed under `exec`.
