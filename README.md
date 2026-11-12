@@ -166,6 +166,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
+- [MySafeInfo Test Data Generator](https://mysafeinfo.com/tools/test-data-generator) - Browser-based generator for linked test datasets; free up to 5,000 rows per table, with a paid higher limit.
 - [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
 - [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
 - [8½ Minute Mail](https://8m30mail.com/) - Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.
