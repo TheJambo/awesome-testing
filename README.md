@@ -79,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ScopeHaven](https://github.com/YusefSyed/scopehaven-oss) - Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether "done" matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.
 - [Bite](https://github.com/connabyss/bite) - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
 - [judge-check](https://github.com/dylanpulver/judge-check) - Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.
+- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Synthetic Python retry-failure exercises with persisted-state assertions and saved trace replay.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
@@ -268,7 +269,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Static Analysis
 - [SmartBench](https://github.com/xianyu-sheng/SmartBench) - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
 - [test-inventory](https://github.com/Huldoser/test-inventory) - Extract declared tests, states and skip reasons from JavaScript and TypeScript source without running the suite, and compare saved inventories between revisions.
-- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Synthetic Python retry-failure exercises with persisted-state assertions and saved trace replay.
+
 
 ## Books
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
