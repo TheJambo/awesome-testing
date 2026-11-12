@@ -268,7 +268,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Static Analysis
 - [SmartBench](https://github.com/xianyu-sheng/SmartBench) - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
 - [test-inventory](https://github.com/Huldoser/test-inventory) - Extract declared tests, states and skip reasons from JavaScript and TypeScript source without running the suite, and compare saved inventories between revisions.
-
+- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Synthetic Python retry-failure exercises with persisted-state assertions and saved trace replay.
 
 ## Books
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
