@@ -192,6 +192,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   locales.
 - [Random IMEI Generator](https://onlineminitools.com/random-imei-generator) - Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.
 - [Brume](https://github.com/brumeorg/Brume) - Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.
+- [Example File](https://example-file.com/en/) - Free hosted test files at fixed URLs, from 1 KB up to 1 GB PDF/MP4 and a 2 GB ZIP, with a CSV index of size and SHA-256 per file for checksum-verified CI downloads, plus A/V test media (sync flash/beep, 5.1/7.1 channel ID). No signup.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
