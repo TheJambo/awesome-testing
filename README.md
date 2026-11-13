@@ -152,6 +152,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
 - [assay](https://github.com/awss1i/assay) - Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.
 - [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
+- [ghost-qa](https://github.com/avivgerz-hue/ghost-qa) - Headless Playwright QA for AI-generated web apps that checks console errors, network failures, layout, accessibility and Core Web Vitals across desktop, tablet and mobile in light and dark themes, with a QA health score and regression diffing. MIT, Node.js.
   
   
 ### Test Report Diagnostics
