@@ -96,6 +96,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
 - [OutageFence](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
 - [atrezzo](https://github.com/zeta92/atrezzo) - Claude Code plugin that serves API mocks as deterministic projections of one seeded data set and checks the rendered DOM against a YAML scenario.
+- [tunnel](https://github.com/e2e-next/tunnel) - Local HTTPS proxy and mock server for testing mobile and web apps against their real hosts. Records real API calls, replays them offline, mocks or breaks single endpoints, and can be driven from test code, a CLI or a coding agent over MCP.
 
 ### Visual Testing
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
