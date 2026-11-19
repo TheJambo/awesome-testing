@@ -154,6 +154,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [assay](https://github.com/awss1i/assay) - Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.
 - [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
 - [ShipShape](https://github.com/Shadysmetools/shipshape) - Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.
+- [sitelooper](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
   
   
 ### Test Report Diagnostics
