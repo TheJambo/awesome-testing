@@ -205,6 +205,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
 - [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
 - [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
+- [Deep Link Tester](https://bestlatestapps.com/tools/deep-link-tester/) - Builds shell-safe adb and xcrun simctl commands and a QR code for testing Android and iOS deep links, and shows which intent filter in a pasted manifest catches a link.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
 - [Keploy API Test Recorder](https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe) - Chrome extension that records API calls from your browser session and turns them into API tests.
