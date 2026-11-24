@@ -273,6 +273,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Kirro](https://kirro.io) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
 
 ### Static Analysis
+- [Certify-the-Checker](https://github.com/ericyunlinchiang/certify-the-checker) - Runnable C examples showing when static analyzers say "no issues" but running the code finds the bug (and the reverse), with measured coverage and a short standard for reporting what a clean result covers.
 - [SmartBench](https://github.com/xianyu-sheng/SmartBench) - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
 - [test-inventory](https://github.com/Huldoser/test-inventory) - Extract declared tests, states and skip reasons from JavaScript and TypeScript source without running the suite, and compare saved inventories between revisions.
 
