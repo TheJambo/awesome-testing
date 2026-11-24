@@ -157,6 +157,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
 - [ShipShape](https://github.com/Shadysmetools/shipshape) - Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.
 - [sitelooper](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
+- [QA Testing Service Resources](https://qatestingservice.in) - A comprehensive ecosystem of 39+ open-source sandboxes built for practicing UI components, API calls, Database queries, and complex payment workflows. By [QaTester1320](https://github.com).
+
   
   
 ### Test Report Diagnostics
