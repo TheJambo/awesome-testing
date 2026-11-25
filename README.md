@@ -303,6 +303,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
 - [Automation Panda](https://automationpanda.com/)
+- [AI Testing Guide](https://aitestingguide.com/)
 - [And others](https://github.com/ChristoWolf/awesome-testing-blogs)
 
 ## Newsletters
