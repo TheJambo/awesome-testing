@@ -171,6 +171,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
+- [Treseko Community](https://github.com/treseko/treseko-platform) - Self-hosted QA platform for managing test cases, manual and automated executions, evidence, bugs, and reports.
 
 ### Test Data Management
 - [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
