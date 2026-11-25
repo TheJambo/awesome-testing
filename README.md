@@ -209,6 +209,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
 - [Keploy API Test Recorder](https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe) - Chrome extension that records API calls from your browser session and turns them into API tests.
 - [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
+- [QA-Wrap](https://github.com/NJ-Burrito/QA-Wrap) - Records a manual test session in Chrome, Edge or Firefox (clicks, typing with sensitive values removed, page errors, network failures), links each failure to the action before it and writes a Jira-ready bug report. Local-first, open source, MIT.
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
 - [Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) - Test how a site behaves for users in other browsers, OSes, languages, timezones and screen sizes by switching the whole browser identity. Also available for Firefox.
 - [TabQA](https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp) - Connect, mirror, and control Android devices directly in Chrome via WebUSB without ADB; capture logs, inspect network requests, and record bug reproduction video buffers.
