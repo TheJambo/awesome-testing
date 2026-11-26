@@ -162,6 +162,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ShipShape](https://github.com/Shadysmetools/shipshape) - Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.
 - [sitelooper](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
 - [Chromium Builds](https://github.com/holtdroid/chromium-builds) - Unofficial Chromium browser and Android WebView APKs for every milestone since 83, for x86_64 emulators and arm64 devices, to test a web page or a WebView app on a specific browser version. Open source (MIT or Apache-2.0).
+- [Selenia](https://github.com/penielny/selenia) - Open-source (MIT) Python library that finds Selenium elements from plain-English descriptions with a 24 MB model that runs on CPU. No LLM or API key; it raises an error instead of guessing when no element, or two elements, fit.
   
   
 ### Test Report Diagnostics
