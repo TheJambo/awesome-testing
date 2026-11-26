@@ -100,6 +100,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OutageFence](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
 - [atrezzo](https://github.com/zeta92/atrezzo) - Claude Code plugin that serves API mocks as deterministic projections of one seeded data set and checks the rendered DOM against a YAML scenario.
 - [ChronoStack](https://github.com/Asmodeus14/ChronoStack) - Open-source CLI that moves time forward across a Docker Compose stack (Postgres, Redis and your services together, no code changes) to test trials, renewals, scheduled jobs and outages in virtual time, with scenarios, seeded simulated users and JUnit reports.
+- [AWS Emulator container image](https://github.com/xSAVIKx/aws-emulator-docker) - Unofficial, signed multi-arch Docker image of the AWS Emulator, a local emulator of the AWS APIs, for integration tests on a workstation and in CI, with a GitHub Action and examples in six languages.
 
 ### Visual Testing
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
