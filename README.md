@@ -82,8 +82,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [agentest](https://github.com/srpadmanabhuni/agentest) - Open-source CLI that runs 130 deterministic checks on recorded OpenTelemetry GenAI traces, A2A agent cards and MCP tool lists, offline and without an LLM judge, and exports JUnit or SARIF for CI.
 - [EvalShift](https://github.com/evalshift/evalshift-cli) - Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.
 - [Apex verify](https://github.com/apex-engine-dev/apex-verify) - Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI and GitHub Action, Apache-2.0.
-
 - [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Skill and CLI that makes a coding agent state formal properties before building, checks them, and records second-model review evidence before the work can be called done.
+
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 - [Buggregator](https://github.com/buggregator/server) - Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.
@@ -165,8 +165,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [sitelooper](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
 - [Chromium Builds](https://github.com/holtdroid/chromium-builds) - Unofficial Chromium browser and Android WebView APKs for every milestone since 83, for x86_64 emulators and arm64 devices, to test a web page or a WebView app on a specific browser version. Open source (MIT or Apache-2.0).
 - [Selenia](https://github.com/penielny/selenia) - Open-source (MIT) Python library that finds Selenium elements from plain-English descriptions with a 24 MB model that runs on CPU. No LLM or API key; it raises an error instead of guessing when no element, or two elements, fit.
-  
-  
+
 ### Test Report Diagnostics
 - [coverage](https://github.com/xseman/coverage) - GitHub Action that compares LCOV and Go coverage reports against the base branch and posts per-file changes as a sticky PR comment.
 - [junit-collision-check](https://github.com/sunxiuguo/junit-collision-check) - Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.
