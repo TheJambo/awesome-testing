@@ -83,6 +83,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [EvalShift](https://github.com/evalshift/evalshift-cli) - Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.
 - [Apex verify](https://github.com/apex-engine-dev/apex-verify) - Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI and GitHub Action, Apache-2.0.
 
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Skill and CLI that makes a coding agent state formal properties before building, checks them, and records second-model review evidence before the work can be called done.
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 - [Buggregator](https://github.com/buggregator/server) - Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.
