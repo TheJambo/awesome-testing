@@ -208,7 +208,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   locales.
 - [Random IMEI Generator](https://onlineminitools.com/random-imei-generator) - Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.
 - [Brume](https://github.com/brumeorg/Brume) - Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.
-
+- [Temp Mail Agency](https://temp-mail.agency/temp-mail-api) - Free, zero-signup disposable email REST API and 100/day MCP server for automated signup verification, password resets, and automatic OTP extraction in CI and E2E tests.
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
