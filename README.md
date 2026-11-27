@@ -208,6 +208,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   locales.
 - [Random IMEI Generator](https://onlineminitools.com/random-imei-generator) - Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.
 - [Brume](https://github.com/brumeorg/Brume) - Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.
+- [Tempboxy](https://tempboxy.com/temp-mail-api) - Free disposable .com and .edu.pl email inbox and keyless JSON REST API with automatic OTP extraction, verification link parsing, 375px mobile HTML preview, .eml export, and a remote MCP server for Playwright, Cypress, and CI tests.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
