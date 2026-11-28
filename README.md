@@ -208,6 +208,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   locales.
 - [Random IMEI Generator](https://onlineminitools.com/random-imei-generator) - Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.
 - [Brume](https://github.com/brumeorg/Brume) - Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
